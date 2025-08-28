@@ -1,0 +1,145 @@
+{
+  "header": {
+    "brand": "CarVista",
+    "nav": {
+      "browseCars": "Procurar",
+      "newCars": "Novos",
+      "usedCars": "Usados",
+      "sellYourCar": "Vender",
+      "finance": "Financiamento"
+    },
+    "listYourCar": "Anunciar"
+  },
+  "hero": {
+    "title": "Encontre seu Perfeito",
+    "titleHighlight": "Carro dos Sonhos",
+    "description": "Navegue por milhares de veículos de qualidade de revendedores confiáveis. Obtenha as melhores ofertas em carros novos e usados com preços transparentes.",
+    "stats": {
+      "rating": "4.9/5 Avaliação",
+      "verifiedDealers": "Revendedores Verificados",
+      "happyCustomers": "50.000+ Clientes Satisfeitos"
+    },
+    "buttons": {
+      "browseAllCars": "Ver Todos os Carros",
+      "sellYourCar": "Venda seu Carro"
+    }
+  },
+  "search": {
+    "placeholder": "Buscar por marca, modelo ou palavra-chave...",
+    "button": "Buscar Carros",
+    "filters": {
+      "allMakes": "Todas as Marcas",
+      "allModels": "Todos os Modelos",
+      "priceRange": "Faixa de Preço",
+      "year": "Ano",
+      "location": "Localização"
+    }
+  },
+  "featuredCars": {
+    "title": "Veículos em Destaque",
+    "description": "Descubra nossa seleção escolhida a dedo de veículos premium de revendedores confiáveis em todo o país",
+    "viewAllVehicles": "Ver Todos os Veículos"
+  },
+  "carCard": {
+    "condition": {
+      "new": "Novo",
+      "used": "Usado",
+      "certified": "Certificado"
+    },
+    "details": {
+      "miles": "milhas",
+      "viewDetails": "Ver Detalhes",
+      "contactDealer": "Contatar Revendedor"
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nós",
+      "careers": "Carreiras",
+      "press": "Imprensa",
+      "contact": "Contato"
+    },
+    "services": {
+      "title": "Serviços",
+      "buyingGuide": "Guia de Compra de Carros",
+      "sellMyCar": "Venda meu Carro",
+      "finance": "Opções de Financiamento",
+      "insurance": "Seguro"
+    },
+    "support": {
+      "title": "Suporte",
+      "help": "Central de Ajuda",
+      "safety": "Segurança",
+      "terms": "Termos de Serviço",
+      "privacy": "Política de Privacidade"
+    },
+    "connect": {
+      "title": "Conecte-se",
+      "newsletter": "Newsletter",
+      "mobile": "Aplicativo Móvel",
+      "dealers": "Revendedores",
+      "partners": "Parceiros"
+    },
+    "copyright": "© 2024 CarVista. Todos os direitos reservados.",
+    "newsletter": {
+      "title": "Assine nossa newsletter",
+      "description": "Receba as últimas atualizações sobre novos carros e ofertas exclusivas.",
+      "placeholder": "Digite seu e-mail",
+      "button": "Inscrever-se"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Bem-vindo de Volta",
+      "subtitle": "Faça login em sua conta para continuar",
+      "email": "Endereço de E-mail",
+      "emailPlaceholder": "voce@exemplo.com",
+      "password": "Senha",
+      "passwordPlaceholder": "Digite sua senha",
+      "rememberMe": "Lembrar-me",
+      "forgotPassword": "Esqueceu a senha?",
+      "signInButton": "Entrar",
+      "signingIn": "Entrando...",
+      "noAccount": "Não tem uma conta?",
+      "signUpLink": "Cadastre-se",
+      "continueWithGoogle": "Continuar com Google",
+      "continueWithFacebook": "Continuar com Facebook",
+      "orContinueWith": "Ou continue com e-mail"
+    },
+    "signUp": {
+      "title": "Crie sua Conta",
+      "subtitle": "Junte-se ao CarVista para começar sua jornada automotiva",
+      "accountType": "Eu quero",
+      "buyerAccount": "Comprar um Carro",
+      "buyerDescription": "Navegue e compre veículos de revendedores confiáveis",
+      "dealerAccount": "Vender Carros",
+      "dealerDescription": "Anuncie veículos e conecte-se com compradores em potencial",
+      "firstName": "Nome",
+      "firstNamePlaceholder": "João",
+      "lastName": "Sobrenome",
+      "lastNamePlaceholder": "Silva",
+      "email": "Endereço de E-mail",
+      "emailPlaceholder": "voce@exemplo.com",
+      "phone": "Telefone (Opcional)",
+      "phonePlaceholder": "+55 (11) 90000-0000",
+      "password": "Senha",
+      "passwordPlaceholder": "Crie uma senha forte",
+      "confirmPassword": "Confirmar Senha",
+      "confirmPasswordPlaceholder": "Digite novamente sua senha",
+      "agreeToTerms": "Eu concordo com os",
+      "termsLink": "Termos de Serviço",
+      "and": "e",
+      "privacyLink": "Política de Privacidade",
+      "subscribeNewsletter": "Envie-me ofertas exclusivas e atualizações sobre carros por e-mail",
+      "createAccount": "Criar Conta",
+      "creatingAccount": "Criando conta...",
+      "alreadyHaveAccount": "Já tem uma conta?",
+      "signInLink": "Entrar",
+      "continueWithGoogle": "Continuar com Google",
+      "orContinueWith": "Ou continue com e-mail",
+      "passwordMismatch": "As senhas não coincidem",
+      "mustAgreeToTerms": "Você deve concordar com os termos para continuar"
+    }
+  }
+}

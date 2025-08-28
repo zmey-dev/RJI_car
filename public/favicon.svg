@@ -1,0 +1,39 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e40af"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="car" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#e5e7eb"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="url(#bg)"/>
+  
+  <!-- Car silhouette -->
+  <g transform="translate(4, 8)">
+    <!-- Main body -->
+    <path d="M0 10h24v4c0 1-1 2-2 2h-1c0 1-1 2-2 2s-2-1-2-2H7c0 1-1 2-2 2s-2-1-2-2H2c-1 0-2-1-2-2v-4z" fill="url(#car)" opacity="0.95"/>
+    
+    <!-- Windshield -->
+    <path d="M2 8h20l-2 2H4l-2-2z" fill="rgba(59,130,246,0.3)"/>
+    
+    <!-- Roof -->
+    <path d="M4 6h16c1 0 2 1 2 2H2c0-1 1-2 2-2z" fill="url(#car)" opacity="0.9"/>
+    
+    <!-- Wheels -->
+    <circle cx="5" cy="16" r="2" fill="#374151"/>
+    <circle cx="19" cy="16" r="2" fill="#374151"/>
+    <circle cx="5" cy="16" r="1.2" fill="#6b7280"/>
+    <circle cx="19" cy="16" r="1.2" fill="#6b7280"/>
+    
+    <!-- Headlight -->
+    <ellipse cx="22" cy="11" rx="1" ry="0.8" fill="#fbbf24" opacity="0.9"/>
+  </g>
+  
+  <!-- V logo -->
+  <path d="M14 4l2 6 2-6" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>

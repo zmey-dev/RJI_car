@@ -1,0 +1,145 @@
+{
+  "header": {
+    "brand": "CarVista",
+    "nav": {
+      "browseCars": "Procurar",
+      "newCars": "Novos",
+      "usedCars": "Usados",
+      "sellYourCar": "Vender",
+      "finance": "Financiamento"
+    },
+    "listYourCar": "Anunciar"
+  },
+  "hero": {
+    "title": "Encontre o seu Perfeito",
+    "titleHighlight": "Carro de Sonho",
+    "description": "Navegue por milhares de veículos de qualidade de concessionários confiáveis. Obtenha as melhores ofertas em carros novos e usados com preços transparentes.",
+    "stats": {
+      "rating": "4.9/5 Avaliação",
+      "verifiedDealers": "Concessionários Verificados",
+      "happyCustomers": "50.000+ Clientes Satisfeitos"
+    },
+    "buttons": {
+      "browseAllCars": "Ver Todos os Carros",
+      "sellYourCar": "Venda o seu Carro"
+    }
+  },
+  "search": {
+    "placeholder": "Pesquisar por marca, modelo ou palavra-chave...",
+    "button": "Pesquisar Carros",
+    "filters": {
+      "allMakes": "Todas as Marcas",
+      "allModels": "Todos os Modelos",
+      "priceRange": "Gama de Preços",
+      "year": "Ano",
+      "location": "Localização"
+    }
+  },
+  "featuredCars": {
+    "title": "Veículos em Destaque",
+    "description": "Descubra a nossa seleção escolhida a dedo de veículos premium de concessionários confiáveis em todo o país",
+    "viewAllVehicles": "Ver Todos os Veículos"
+  },
+  "carCard": {
+    "condition": {
+      "new": "Novo",
+      "used": "Usado",
+      "certified": "Certificado"
+    },
+    "details": {
+      "miles": "milhas",
+      "viewDetails": "Ver Detalhes",
+      "contactDealer": "Contactar Concessionário"
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nós",
+      "careers": "Carreiras",
+      "press": "Imprensa",
+      "contact": "Contacto"
+    },
+    "services": {
+      "title": "Serviços",
+      "buyingGuide": "Guia de Compra de Carros",
+      "sellMyCar": "Venda o meu Carro",
+      "finance": "Opções de Financiamento",
+      "insurance": "Seguro"
+    },
+    "support": {
+      "title": "Apoio",
+      "help": "Centro de Ajuda",
+      "safety": "Segurança",
+      "terms": "Termos de Serviço",
+      "privacy": "Política de Privacidade"
+    },
+    "connect": {
+      "title": "Conectar",
+      "newsletter": "Newsletter",
+      "mobile": "Aplicação Móvel",
+      "dealers": "Concessionários",
+      "partners": "Parceiros"
+    },
+    "copyright": "© 2024 CarVista. Todos os direitos reservados.",
+    "newsletter": {
+      "title": "Subscreva a nossa newsletter",
+      "description": "Receba as últimas atualizações sobre novos carros e ofertas exclusivas.",
+      "placeholder": "Insira o seu e-mail",
+      "button": "Subscrever"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Bem-vindo de Volta",
+      "subtitle": "Inicie sessão na sua conta para continuar",
+      "email": "Endereço de E-mail",
+      "emailPlaceholder": "voce@exemplo.com",
+      "password": "Palavra-passe",
+      "passwordPlaceholder": "Insira a sua palavra-passe",
+      "rememberMe": "Lembrar-me",
+      "forgotPassword": "Esqueceu-se da palavra-passe?",
+      "signInButton": "Iniciar Sessão",
+      "signingIn": "A iniciar sessão...",
+      "noAccount": "Não tem uma conta?",
+      "signUpLink": "Registar-se",
+      "continueWithGoogle": "Continuar com Google",
+      "continueWithFacebook": "Continuar com Facebook",
+      "orContinueWith": "Ou continue com e-mail"
+    },
+    "signUp": {
+      "title": "Crie a sua Conta",
+      "subtitle": "Junte-se ao CarVista para começar a sua jornada automóvel",
+      "accountType": "Eu quero",
+      "buyerAccount": "Comprar um Carro",
+      "buyerDescription": "Navegue e compre veículos de concessionários confiáveis",
+      "dealerAccount": "Vender Carros",
+      "dealerDescription": "Anuncie veículos e conecte-se com potenciais compradores",
+      "firstName": "Nome",
+      "firstNamePlaceholder": "João",
+      "lastName": "Apelido",
+      "lastNamePlaceholder": "Silva",
+      "email": "Endereço de E-mail",
+      "emailPlaceholder": "voce@exemplo.com",
+      "phone": "Telefone (Opcional)",
+      "phonePlaceholder": "+351 900 000 000",
+      "password": "Palavra-passe",
+      "passwordPlaceholder": "Crie uma palavra-passe forte",
+      "confirmPassword": "Confirmar Palavra-passe",
+      "confirmPasswordPlaceholder": "Reintroduza a sua palavra-passe",
+      "agreeToTerms": "Eu concordo com os",
+      "termsLink": "Termos de Serviço",
+      "and": "e",
+      "privacyLink": "Política de Privacidade",
+      "subscribeNewsletter": "Envie-me ofertas exclusivas e atualizações sobre carros por e-mail",
+      "createAccount": "Criar Conta",
+      "creatingAccount": "A criar conta...",
+      "alreadyHaveAccount": "Já tem uma conta?",
+      "signInLink": "Iniciar sessão",
+      "continueWithGoogle": "Continuar com Google",
+      "orContinueWith": "Ou continue com e-mail",
+      "passwordMismatch": "As palavras-passe não coincidem",
+      "mustAgreeToTerms": "Deve concordar com os termos para continuar"
+    }
+  }
+}

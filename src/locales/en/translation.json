@@ -1,0 +1,145 @@
+{
+  "header": {
+    "brand": "CarVista",
+    "nav": {
+      "browseCars": "Browse Cars",
+      "newCars": "New Cars",
+      "usedCars": "Used Cars",
+      "sellYourCar": "Sell Your Car",
+      "finance": "Finance"
+    },
+    "listYourCar": "List Your Car"
+  },
+  "hero": {
+    "title": "Find Your Perfect",
+    "titleHighlight": "Dream Car",
+    "description": "Browse thousands of quality vehicles from trusted dealers. Get the best deals on new and used cars with transparent pricing.",
+    "stats": {
+      "rating": "4.9/5 Rating",
+      "verifiedDealers": "Verified Dealers",
+      "happyCustomers": "50,000+ Happy Customers"
+    },
+    "buttons": {
+      "browseAllCars": "Browse All Cars",
+      "sellYourCar": "Sell Your Car"
+    }
+  },
+  "search": {
+    "placeholder": "Search by make, model, or keyword...",
+    "button": "Search Cars",
+    "filters": {
+      "allMakes": "All Makes",
+      "allModels": "All Models",
+      "priceRange": "Price Range",
+      "year": "Year",
+      "location": "Location"
+    }
+  },
+  "featuredCars": {
+    "title": "Featured Vehicles",
+    "description": "Discover our handpicked selection of premium vehicles from trusted dealers across the country",
+    "viewAllVehicles": "View All Vehicles"
+  },
+  "carCard": {
+    "condition": {
+      "new": "New",
+      "used": "Used",
+      "certified": "Certified"
+    },
+    "details": {
+      "miles": "miles",
+      "viewDetails": "View Details",
+      "contactDealer": "Contact Dealer"
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Services",
+      "buyingGuide": "Car Buying Guide",
+      "sellMyCar": "Sell My Car",
+      "finance": "Finance Options",
+      "insurance": "Insurance"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "safety": "Safety",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "connect": {
+      "title": "Connect",
+      "newsletter": "Newsletter",
+      "mobile": "Mobile App",
+      "dealers": "Dealers",
+      "partners": "Partners"
+    },
+    "copyright": "© 2024 CarVista. All rights reserved.",
+    "newsletter": {
+      "title": "Subscribe to our newsletter",
+      "description": "Get the latest updates on new cars and exclusive deals.",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account to continue",
+      "email": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signInButton": "Sign In",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign up",
+      "continueWithGoogle": "Continue with Google",
+      "continueWithFacebook": "Continue with Facebook",
+      "orContinueWith": "Or continue with email"
+    },
+    "signUp": {
+      "title": "Create Your Account",
+      "subtitle": "Join CarVista to start your car journey",
+      "accountType": "I want to",
+      "buyerAccount": "Buy a Car",
+      "buyerDescription": "Browse and purchase vehicles from trusted dealers",
+      "dealerAccount": "Sell Cars",
+      "dealerDescription": "List vehicles and connect with potential buyers",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone Number (Optional)",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "password": "Password",
+      "passwordPlaceholder": "Create a strong password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "agreeToTerms": "I agree to the",
+      "termsLink": "Terms of Service",
+      "and": "and",
+      "privacyLink": "Privacy Policy",
+      "subscribeNewsletter": "Send me exclusive deals and car updates via email",
+      "createAccount": "Create Account",
+      "creatingAccount": "Creating account...",
+      "alreadyHaveAccount": "Already have an account?",
+      "signInLink": "Sign in",
+      "continueWithGoogle": "Continue with Google",
+      "orContinueWith": "Or continue with email",
+      "passwordMismatch": "Passwords do not match",
+      "mustAgreeToTerms": "You must agree to the terms to continue"
+    }
+  }
+}
