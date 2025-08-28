@@ -71,10 +71,5 @@
       "destination": "/",
       "permanent": true
     }
-  ],
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  ]
 }
